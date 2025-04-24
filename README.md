@@ -2,6 +2,7 @@
 
 This repository contains a from-scratch implementation of an interactive instance segmentation network inspired by the UCP-Net architecture, with guidance maps and modern MLOps practices.
 
+[Article](https://arxiv.org/pdf/2109.07592)
 
 ---
 
